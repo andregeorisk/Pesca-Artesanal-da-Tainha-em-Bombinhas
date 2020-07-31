@@ -101,10 +101,6 @@ input, select {
     vertical-align:middle;
 }
 
-<code>
-@media screen and (max-width: 481px){
-
-  /*write your CSS-Code here*/
   .titulo {
     font-size: 24pt;
     font-family: Calibri, sans-serif;
@@ -121,7 +117,3 @@ input, select {
   .mapaframe {
     text-align: center;
   }
-
-
-}
-</code>
