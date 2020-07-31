@@ -101,19 +101,27 @@ input, select {
     vertical-align:middle;
 }
 
-.titulo {
-  font-size: 24pt;
-  font-family: Calibri, sans-serif;
-  margin: 10px;
-  text-align: center;
-}
+<code>
+@media screen and (max-width: 481px){
 
-.texto1 {
-  font-size: 12pt;
-  font-family: Calibri, sans-serif;
-  margin: 20px;
-}
+  /*write your CSS-Code here*/
+  .titulo {
+    font-size: 24pt;
+    font-family: Calibri, sans-serif;
+    margin: 10px;
+    text-align: center;
+  }
 
-.mapaframe {
-  text-align: center;
+  .texto1 {
+    font-size: 12pt;
+    font-family: Calibri, sans-serif;
+    margin: 20px;
+  }
+
+  .mapaframe {
+    text-align: center;
+  }
+
+
 }
+</code>
